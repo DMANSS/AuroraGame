@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TestApp">
+    <Position X="0.5" Y="1.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAEAgAAAAAAAAAAAAAAABACAAAAAAA=</HashCode>
+      <FileName>winmain.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DXApp" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AMQAAEAA4AoCIgAAAAAAAACAAAAAAAICAJACAEAABAo=</HashCode>
+      <FileName>DXApp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
